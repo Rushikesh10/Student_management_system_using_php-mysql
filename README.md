@@ -5,4 +5,4 @@ Operations:
 2.ADD 
 3.Update
 4.Delete 
-using php-mysql
+using PHP and MySQL
